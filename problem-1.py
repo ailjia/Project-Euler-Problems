@@ -25,3 +25,4 @@ def sum_multiples(n, a, b):
     result = sum(a_n) + sum(b-n)
     return result
 
+print(sum_multiples(n = 1000, a = 3, b= 5))
