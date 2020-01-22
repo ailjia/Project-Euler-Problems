@@ -32,4 +32,7 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
-# More Problems ... (updating in progress) 
+# More Problems ... 
+(updating in progress) 
+
+The problems are retrieved from https://projecteuler.net/archives
