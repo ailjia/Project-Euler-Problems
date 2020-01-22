@@ -1,6 +1,6 @@
 # Project Euler Problems
 
-This is a directory about Project-Euler problems.
+This is a directory about Project-Euler problems. The codes to answer these question can be found in this directory, with the respective python file.
 
 # Problem 1: Multiples of 3 and 5
 
@@ -31,3 +31,5 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+
+# More Problems ... (updating in progress) 
