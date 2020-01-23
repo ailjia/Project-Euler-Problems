@@ -32,6 +32,10 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
+# Problem 6: Sum square difference
+
+Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+
 # More Problems ... 
 (updating in progress) 
 
